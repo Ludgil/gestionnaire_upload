@@ -1,0 +1,17 @@
+body{
+    background-color: #f9f9fa;
+}
+.box{
+    display: none;
+    width: 100%;
+}
+
+table{
+    background-color: #fff !important;
+}
+
+p:hover + .box,.box:hover{
+    display: block;
+    position: absolute;
+    z-index: 100;
+}
