@@ -7,7 +7,7 @@ Techno :
 * bootstrap 
 * datatable (librairie javascript)
 * dropzonejs (librairie javascript)
-* php
+* PHP
 
 Simple zone de drag and drop pour upload des fichiers, ainsi qu'une page permettant de télécharger les fichiers qui ont été upload. 
 Téléchargement fichier par ficher ou par téléchargement multipe avec un fichier ZIP. 
